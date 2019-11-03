@@ -1,0 +1,2 @@
+Este Tp utiliza funciones que operan a bajo nivel sobre los registros del CLOCK de una PC.
+se debe correr con sudo y en algunos sistemas operativos es imposible conseguir el acceso al clock.
